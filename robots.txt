@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://erniezhuang.com/sitemap.xml
+Sitemap: https://erniechuang.github.io/web/sitemap.xml
